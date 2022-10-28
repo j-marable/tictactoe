@@ -7,3 +7,4 @@
   - - Data Type interchanges
   - - Indexing
   - - Variable scope
+  - - Knowledge of random generators
