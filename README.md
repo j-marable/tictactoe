@@ -1,3 +1,2 @@
 # Terminal tictactoe Game
-
-# Something
+- This project is written in Python 3.10 coding language
