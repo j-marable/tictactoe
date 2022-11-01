@@ -8,3 +8,4 @@
   - - Indexing
   - - Variable scope
   - - Knowledge of random generators
+  - - Terminal knowledge
